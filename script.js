@@ -90,6 +90,7 @@ function makeLocalStorageWork() {
 }
 
 async function runProgram() {
+    console.log("hi")
 
     //the functions below make the interactive elements work
     makeLogoSelectWork();
